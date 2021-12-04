@@ -49,6 +49,8 @@
 .btn{
     display:flex;
     width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     justify-content: center;
     background: $clr-fondo;
     text-align: center;
@@ -64,6 +66,10 @@
     font-size: 2rem;
     width: 200px;
     height: auto;
+}
+
+main {
+    background: $clr-fondo;
 }
 
 
